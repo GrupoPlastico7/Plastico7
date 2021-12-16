@@ -1,0 +1,31 @@
+# Rhino
+newmtl seamless-rust-texture-rusted-metal-2041315
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd seamless-rust-texture-rusted-metal-2041315.jpg
+newmtl bumpy-grey-concrete-texture-1
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd bumpy-grey-concrete-texture-1.jpg
+newmtl Paint
+Ka 0.0000 0.0000 0.0000
+Kd 0.5176 0.5176 0.5176
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl diffuse_0
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
